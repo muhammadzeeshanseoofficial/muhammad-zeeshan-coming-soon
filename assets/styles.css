@@ -592,3 +592,9 @@ h2{letter-spacing:-0.02em;line-height:1.15}
 .rd-what-single .contact-btns,.center .contact-btns{justify-content:flex-start}
 @media (max-width:480px){.contact-btns .btn,.btn-row .btn-li,.post-cta .btn{flex:1 1 100%;justify-content:center}}
 @media (max-width:480px){.btn-row .btn,.rd-btns .btn{flex:1 1 100%;justify-content:center}}
+/* Prominent LinkedIn CTA */
+.btn.btn-li,.cta-band .btn.btn-li,.site-cta .btn.btn-li{background:#0A66C2;color:#fff;border:2px solid #0A66C2;font-weight:700;min-height:48px;padding:13px 24px;gap:10px;box-shadow:0 8px 20px rgba(10,102,194,.28)}
+.btn.btn-li:hover,.btn.btn-li:focus-visible{background:#004182;border-color:#004182;color:#fff;text-decoration:none}
+.btn.btn-li svg{width:20px;height:20px;color:#fff}
+.rd-hero .btn-row .btn,.page-hero .btn-row .btn,.hero .btn-row .btn,.contact-btns .btn,.post-cta .btn{min-height:48px}
+.site-cta .btn.btn-li{box-shadow:0 0 0 1px rgba(255,255,255,.25),0 8px 20px rgba(0,0,0,.25)}
