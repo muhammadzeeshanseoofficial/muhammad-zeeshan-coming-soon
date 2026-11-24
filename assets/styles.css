@@ -573,3 +573,6 @@ h1,main h1,.rd .rd-h1,.rd h1{font-family:var(--sans);font-size:clamp(2.125rem,1.
 h2,h3,h4,.rd h2,.rd h3{color:#271531}
 .site-cta h2,.rd-cta h2,.cta-band h2,.site-footer h4{color:#fff}
 h2{letter-spacing:-0.02em;line-height:1.15}
+/* overview section: single column, no stat tiles */
+.rd .rd-what-single{max-width:720px;margin:0 auto}
+.rd .rd-what-single p:last-child{margin-bottom:0}
