@@ -1,3 +1,5 @@
+/* Size-adjusted local fallback to reduce layout shift while Bricolage Grotesque loads (approximate metrics) */
+@font-face{font-family:"Bricolage Grotesque Fallback";src:local("Arial"),local("Helvetica"),local("Liberation Sans");size-adjust:102%;ascent-override:92%;descent-override:26%;line-gap-override:0%}
 /* Muhammad Zeeshan — SEO Consultant | shared stylesheet */
 :root{
   --blue:#1E5BFF; --blue-700:#1546CC; --blue-50:#EEF3FF; --blue-100:#DCE6FF;
@@ -8,7 +10,7 @@
   --radius:14px; --radius-lg:22px;
   --shadow:0 1px 2px rgba(15,23,42,.05),0 8px 24px rgba(15,23,42,.06);
   --shadow-lg:0 2px 4px rgba(15,23,42,.05),0 24px 48px rgba(30,91,255,.12);
-  --sans:"Inter",system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  --sans:"Bricolage Grotesque","Bricolage Grotesque Fallback",system-ui,sans-serif;
   --max:1200px;
 }
 *,*::before,*::after{box-sizing:border-box}
@@ -564,3 +566,10 @@ img,video,iframe,svg{max-width:100%;height:auto}
 .site-cta .sc-checks li::before{content:"✓";color:#22C3D9;font-weight:700;margin-right:6px}
 @media (max-width:640px){.site-cta{padding:56px 0}.site-cta .sc-btns .btn{flex:1 1 100%;justify-content:center;min-height:44px}.site-cta .sc-checks{flex-direction:column;align-items:flex-start;max-width:340px;font-size:1rem;text-align:left}}
 .site-cta{border-bottom:1px solid rgba(255,255,255,.10)}
+
+/* ===== Typography: Bricolage Grotesque, H1 spec ===== */
+h1,main h1,.rd .rd-h1,.rd h1{font-family:var(--sans);font-size:clamp(2.125rem,1.6rem + 2.2vw,3rem);line-height:1.104;font-weight:700;letter-spacing:-0.02em;color:#271531}
+@media (min-width:1200px){h1,main h1,.rd .rd-h1,.rd h1{font-size:48px;line-height:53px;letter-spacing:-0.96px}}
+h2,h3,h4,.rd h2,.rd h3{color:#271531}
+.site-cta h2,.rd-cta h2,.cta-band h2,.site-footer h4{color:#fff}
+h2{letter-spacing:-0.02em;line-height:1.15}
