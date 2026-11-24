@@ -1,0 +1,792 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/ai-seo-services",
+      "destination": "/services/ai-seo",
+      "permanent": true
+    },
+    {
+      "source": "/ai-seo-services.html",
+      "destination": "/services/ai-seo",
+      "permanent": true
+    },
+    {
+      "source": "/airport-transfer-seo-services",
+      "destination": "/industries/airport-transfer-seo",
+      "permanent": true
+    },
+    {
+      "source": "/airport-transfer-seo-services.html",
+      "destination": "/industries/airport-transfer-seo",
+      "permanent": true
+    },
+    {
+      "source": "/auto-detailing-seo-services",
+      "destination": "/industries/auto-detailing-seo",
+      "permanent": true
+    },
+    {
+      "source": "/auto-detailing-seo-services.html",
+      "destination": "/industries/auto-detailing-seo",
+      "permanent": true
+    },
+    {
+      "source": "/auto-repair-seo-services",
+      "destination": "/industries/auto-repair-seo",
+      "permanent": true
+    },
+    {
+      "source": "/auto-repair-seo-services.html",
+      "destination": "/industries/auto-repair-seo",
+      "permanent": true
+    },
+    {
+      "source": "/bakery-seo-services",
+      "destination": "/industries/bakery-seo",
+      "permanent": true
+    },
+    {
+      "source": "/bakery-seo-services.html",
+      "destination": "/industries/bakery-seo",
+      "permanent": true
+    },
+    {
+      "source": "/barber-seo-services",
+      "destination": "/industries/barber-seo",
+      "permanent": true
+    },
+    {
+      "source": "/barber-seo-services.html",
+      "destination": "/industries/barber-seo",
+      "permanent": true
+    },
+    {
+      "source": "/blog-what-is-technical-seo",
+      "destination": "/blog/what-is-technical-seo",
+      "permanent": true
+    },
+    {
+      "source": "/blog-what-is-technical-seo.html",
+      "destination": "/blog/what-is-technical-seo",
+      "permanent": true
+    },
+    {
+      "source": "/cafe-seo-services",
+      "destination": "/industries/cafe-seo",
+      "permanent": true
+    },
+    {
+      "source": "/cafe-seo-services.html",
+      "destination": "/industries/cafe-seo",
+      "permanent": true
+    },
+    {
+      "source": "/car-dealer-seo-services",
+      "destination": "/industries/car-dealer-seo",
+      "permanent": true
+    },
+    {
+      "source": "/car-dealer-seo-services.html",
+      "destination": "/industries/car-dealer-seo",
+      "permanent": true
+    },
+    {
+      "source": "/car-rental-seo-services",
+      "destination": "/industries/car-rental-seo",
+      "permanent": true
+    },
+    {
+      "source": "/car-rental-seo-services.html",
+      "destination": "/industries/car-rental-seo",
+      "permanent": true
+    },
+    {
+      "source": "/carpet-cleaning-seo-services",
+      "destination": "/industries/carpet-cleaning-seo",
+      "permanent": true
+    },
+    {
+      "source": "/carpet-cleaning-seo-services.html",
+      "destination": "/industries/carpet-cleaning-seo",
+      "permanent": true
+    },
+    {
+      "source": "/case-study-feetfinder",
+      "destination": "/case-studies/feetfinder",
+      "permanent": true
+    },
+    {
+      "source": "/case-study-feetfinder.html",
+      "destination": "/case-studies/feetfinder",
+      "permanent": true
+    },
+    {
+      "source": "/case-study-spicyranked",
+      "destination": "/case-studies/spicyranked",
+      "permanent": true
+    },
+    {
+      "source": "/case-study-spicyranked.html",
+      "destination": "/case-studies/spicyranked",
+      "permanent": true
+    },
+    {
+      "source": "/catering-seo-services",
+      "destination": "/industries/catering-seo",
+      "permanent": true
+    },
+    {
+      "source": "/catering-seo-services.html",
+      "destination": "/industries/catering-seo",
+      "permanent": true
+    },
+    {
+      "source": "/chauffeur-limo-seo-services",
+      "destination": "/industries/chauffeur-limo-seo",
+      "permanent": true
+    },
+    {
+      "source": "/chauffeur-limo-seo-services.html",
+      "destination": "/industries/chauffeur-limo-seo",
+      "permanent": true
+    },
+    {
+      "source": "/church-seo-services",
+      "destination": "/industries/church-seo",
+      "permanent": true
+    },
+    {
+      "source": "/church-seo-services.html",
+      "destination": "/industries/church-seo",
+      "permanent": true
+    },
+    {
+      "source": "/cleaning-services-seo",
+      "destination": "/services/cleaning-seo",
+      "permanent": true
+    },
+    {
+      "source": "/cleaning-services-seo.html",
+      "destination": "/services/cleaning-seo",
+      "permanent": true
+    },
+    {
+      "source": "/coaching-seo-services",
+      "destination": "/industries/coaching-seo",
+      "permanent": true
+    },
+    {
+      "source": "/coaching-seo-services.html",
+      "destination": "/industries/coaching-seo",
+      "permanent": true
+    },
+    {
+      "source": "/construction-seo-services",
+      "destination": "/industries/construction-seo",
+      "permanent": true
+    },
+    {
+      "source": "/construction-seo-services.html",
+      "destination": "/industries/construction-seo",
+      "permanent": true
+    },
+    {
+      "source": "/content-seo-services",
+      "destination": "/services/content-seo",
+      "permanent": true
+    },
+    {
+      "source": "/content-seo-services.html",
+      "destination": "/services/content-seo",
+      "permanent": true
+    },
+    {
+      "source": "/contractor-seo-services",
+      "destination": "/industries/contractor-seo",
+      "permanent": true
+    },
+    {
+      "source": "/contractor-seo-services.html",
+      "destination": "/industries/contractor-seo",
+      "permanent": true
+    },
+    {
+      "source": "/courier-logistics-seo-services",
+      "destination": "/industries/courier-logistics-seo",
+      "permanent": true
+    },
+    {
+      "source": "/courier-logistics-seo-services.html",
+      "destination": "/industries/courier-logistics-seo",
+      "permanent": true
+    },
+    {
+      "source": "/daycare-seo-services",
+      "destination": "/industries/daycare-seo",
+      "permanent": true
+    },
+    {
+      "source": "/daycare-seo-services.html",
+      "destination": "/industries/daycare-seo",
+      "permanent": true
+    },
+    {
+      "source": "/dog-training-seo-services",
+      "destination": "/industries/dog-training-seo",
+      "permanent": true
+    },
+    {
+      "source": "/dog-training-seo-services.html",
+      "destination": "/industries/dog-training-seo",
+      "permanent": true
+    },
+    {
+      "source": "/driving-school-seo-services",
+      "destination": "/industries/driving-school-seo",
+      "permanent": true
+    },
+    {
+      "source": "/driving-school-seo-services.html",
+      "destination": "/industries/driving-school-seo",
+      "permanent": true
+    },
+    {
+      "source": "/ecommerce-shopify-seo-services",
+      "destination": "/services/ecommerce-seo",
+      "permanent": true
+    },
+    {
+      "source": "/ecommerce-shopify-seo-services.html",
+      "destination": "/services/ecommerce-seo",
+      "permanent": true
+    },
+    {
+      "source": "/electrician-seo-services",
+      "destination": "/industries/electrician-seo",
+      "permanent": true
+    },
+    {
+      "source": "/electrician-seo-services.html",
+      "destination": "/industries/electrician-seo",
+      "permanent": true
+    },
+    {
+      "source": "/event-planner-seo-services",
+      "destination": "/industries/event-planner-seo",
+      "permanent": true
+    },
+    {
+      "source": "/event-planner-seo-services.html",
+      "destination": "/industries/event-planner-seo",
+      "permanent": true
+    },
+    {
+      "source": "/flooring-seo-services",
+      "destination": "/industries/flooring-seo",
+      "permanent": true
+    },
+    {
+      "source": "/flooring-seo-services.html",
+      "destination": "/industries/flooring-seo",
+      "permanent": true
+    },
+    {
+      "source": "/florist-seo-services",
+      "destination": "/industries/florist-seo",
+      "permanent": true
+    },
+    {
+      "source": "/florist-seo-services.html",
+      "destination": "/industries/florist-seo",
+      "permanent": true
+    },
+    {
+      "source": "/franchise-seo-services",
+      "destination": "/industries/franchise-seo",
+      "permanent": true
+    },
+    {
+      "source": "/franchise-seo-services.html",
+      "destination": "/industries/franchise-seo",
+      "permanent": true
+    },
+    {
+      "source": "/furniture-store-seo-services",
+      "destination": "/industries/furniture-store-seo",
+      "permanent": true
+    },
+    {
+      "source": "/furniture-store-seo-services.html",
+      "destination": "/industries/furniture-store-seo",
+      "permanent": true
+    },
+    {
+      "source": "/garage-door-seo-services",
+      "destination": "/industries/garage-door-seo",
+      "permanent": true
+    },
+    {
+      "source": "/garage-door-seo-services.html",
+      "destination": "/industries/garage-door-seo",
+      "permanent": true
+    },
+    {
+      "source": "/google-business-profile-optimization",
+      "destination": "/services/google-business-profile",
+      "permanent": true
+    },
+    {
+      "source": "/google-business-profile-optimization.html",
+      "destination": "/services/google-business-profile",
+      "permanent": true
+    },
+    {
+      "source": "/gym-seo-services",
+      "destination": "/industries/gym-seo",
+      "permanent": true
+    },
+    {
+      "source": "/gym-seo-services.html",
+      "destination": "/industries/gym-seo",
+      "permanent": true
+    },
+    {
+      "source": "/handyman-seo-services",
+      "destination": "/industries/handyman-seo",
+      "permanent": true
+    },
+    {
+      "source": "/handyman-seo-services.html",
+      "destination": "/industries/handyman-seo",
+      "permanent": true
+    },
+    {
+      "source": "/hotel-seo-services",
+      "destination": "/industries/hotel-seo",
+      "permanent": true
+    },
+    {
+      "source": "/hotel-seo-services.html",
+      "destination": "/industries/hotel-seo",
+      "permanent": true
+    },
+    {
+      "source": "/hvac-seo-services",
+      "destination": "/services/hvac-seo",
+      "permanent": true
+    },
+    {
+      "source": "/hvac-seo-services.html",
+      "destination": "/services/hvac-seo",
+      "permanent": true
+    },
+    {
+      "source": "/interior-design-seo-services",
+      "destination": "/industries/interior-design-seo",
+      "permanent": true
+    },
+    {
+      "source": "/interior-design-seo-services.html",
+      "destination": "/industries/interior-design-seo",
+      "permanent": true
+    },
+    {
+      "source": "/international-seo-services",
+      "destination": "/services/international-seo",
+      "permanent": true
+    },
+    {
+      "source": "/international-seo-services.html",
+      "destination": "/services/international-seo",
+      "permanent": true
+    },
+    {
+      "source": "/junk-removal-seo-services",
+      "destination": "/industries/junk-removal-seo",
+      "permanent": true
+    },
+    {
+      "source": "/junk-removal-seo-services.html",
+      "destination": "/industries/junk-removal-seo",
+      "permanent": true
+    },
+    {
+      "source": "/landscaping-seo-services",
+      "destination": "/industries/landscaping-seo",
+      "permanent": true
+    },
+    {
+      "source": "/landscaping-seo-services.html",
+      "destination": "/industries/landscaping-seo",
+      "permanent": true
+    },
+    {
+      "source": "/local-seo-services",
+      "destination": "/services/local-seo",
+      "permanent": true
+    },
+    {
+      "source": "/local-seo-services.html",
+      "destination": "/services/local-seo",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-seo-services",
+      "destination": "/industries/locksmith-seo",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-seo-services.html",
+      "destination": "/industries/locksmith-seo",
+      "permanent": true
+    },
+    {
+      "source": "/marketing-agency-seo-services",
+      "destination": "/industries/marketing-agency-seo",
+      "permanent": true
+    },
+    {
+      "source": "/marketing-agency-seo-services.html",
+      "destination": "/industries/marketing-agency-seo",
+      "permanent": true
+    },
+    {
+      "source": "/moving-seo-services",
+      "destination": "/industries/moving-seo",
+      "permanent": true
+    },
+    {
+      "source": "/moving-seo-services.html",
+      "destination": "/industries/moving-seo",
+      "permanent": true
+    },
+    {
+      "source": "/non-medical-spa-seo-services",
+      "destination": "/industries/non-medical-spa-seo",
+      "permanent": true
+    },
+    {
+      "source": "/non-medical-spa-seo-services.html",
+      "destination": "/industries/non-medical-spa-seo",
+      "permanent": true
+    },
+    {
+      "source": "/nonprofit-seo-services",
+      "destination": "/industries/nonprofit-seo",
+      "permanent": true
+    },
+    {
+      "source": "/nonprofit-seo-services.html",
+      "destination": "/industries/nonprofit-seo",
+      "permanent": true
+    },
+    {
+      "source": "/off-page-seo-link-building-services",
+      "destination": "/services/off-page-seo",
+      "permanent": true
+    },
+    {
+      "source": "/off-page-seo-link-building-services.html",
+      "destination": "/services/off-page-seo",
+      "permanent": true
+    },
+    {
+      "source": "/on-page-seo-services",
+      "destination": "/services/on-page-seo",
+      "permanent": true
+    },
+    {
+      "source": "/on-page-seo-services.html",
+      "destination": "/services/on-page-seo",
+      "permanent": true
+    },
+    {
+      "source": "/painting-seo-services",
+      "destination": "/industries/painting-seo",
+      "permanent": true
+    },
+    {
+      "source": "/painting-seo-services.html",
+      "destination": "/industries/painting-seo",
+      "permanent": true
+    },
+    {
+      "source": "/pest-control-seo-services",
+      "destination": "/industries/pest-control-seo",
+      "permanent": true
+    },
+    {
+      "source": "/pest-control-seo-services.html",
+      "destination": "/industries/pest-control-seo",
+      "permanent": true
+    },
+    {
+      "source": "/pet-grooming-seo-services",
+      "destination": "/industries/pet-grooming-seo",
+      "permanent": true
+    },
+    {
+      "source": "/pet-grooming-seo-services.html",
+      "destination": "/industries/pet-grooming-seo",
+      "permanent": true
+    },
+    {
+      "source": "/photographer-seo-services",
+      "destination": "/industries/photographer-seo",
+      "permanent": true
+    },
+    {
+      "source": "/photographer-seo-services.html",
+      "destination": "/industries/photographer-seo",
+      "permanent": true
+    },
+    {
+      "source": "/plumber-seo-services",
+      "destination": "/services/plumber-seo",
+      "permanent": true
+    },
+    {
+      "source": "/plumber-seo-services.html",
+      "destination": "/services/plumber-seo",
+      "permanent": true
+    },
+    {
+      "source": "/pool-service-seo-services",
+      "destination": "/industries/pool-service-seo",
+      "permanent": true
+    },
+    {
+      "source": "/pool-service-seo-services.html",
+      "destination": "/industries/pool-service-seo",
+      "permanent": true
+    },
+    {
+      "source": "/pressure-washing-seo-services",
+      "destination": "/industries/pressure-washing-seo",
+      "permanent": true
+    },
+    {
+      "source": "/pressure-washing-seo-services.html",
+      "destination": "/industries/pressure-washing-seo",
+      "permanent": true
+    },
+    {
+      "source": "/real-estate-seo-services",
+      "destination": "/services/real-estate-seo",
+      "permanent": true
+    },
+    {
+      "source": "/real-estate-seo-services.html",
+      "destination": "/services/real-estate-seo",
+      "permanent": true
+    },
+    {
+      "source": "/restaurant-seo-services",
+      "destination": "/services/restaurant-seo",
+      "permanent": true
+    },
+    {
+      "source": "/restaurant-seo-services.html",
+      "destination": "/services/restaurant-seo",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-seo-services",
+      "destination": "/industries/roofing-seo",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-seo-services.html",
+      "destination": "/industries/roofing-seo",
+      "permanent": true
+    },
+    {
+      "source": "/saas-b2b-seo-services",
+      "destination": "/services/saas-b2b-seo",
+      "permanent": true
+    },
+    {
+      "source": "/saas-b2b-seo-services.html",
+      "destination": "/services/saas-b2b-seo",
+      "permanent": true
+    },
+    {
+      "source": "/salon-seo-services",
+      "destination": "/industries/salon-seo",
+      "permanent": true
+    },
+    {
+      "source": "/salon-seo-services.html",
+      "destination": "/industries/salon-seo",
+      "permanent": true
+    },
+    {
+      "source": "/seo-audit-services",
+      "destination": "/services/seo-audit",
+      "permanent": true
+    },
+    {
+      "source": "/seo-audit-services.html",
+      "destination": "/services/seo-audit",
+      "permanent": true
+    },
+    {
+      "source": "/small-business-seo-services",
+      "destination": "/services/small-business-seo",
+      "permanent": true
+    },
+    {
+      "source": "/small-business-seo-services.html",
+      "destination": "/services/small-business-seo",
+      "permanent": true
+    },
+    {
+      "source": "/solar-seo-services",
+      "destination": "/industries/solar-seo",
+      "permanent": true
+    },
+    {
+      "source": "/solar-seo-services.html",
+      "destination": "/industries/solar-seo",
+      "permanent": true
+    },
+    {
+      "source": "/startup-seo-services",
+      "destination": "/industries/startup-seo",
+      "permanent": true
+    },
+    {
+      "source": "/startup-seo-services.html",
+      "destination": "/industries/startup-seo",
+      "permanent": true
+    },
+    {
+      "source": "/taxi-limo-seo-services",
+      "destination": "/services/taxi-limo-seo",
+      "permanent": true
+    },
+    {
+      "source": "/taxi-limo-seo-services.html",
+      "destination": "/services/taxi-limo-seo",
+      "permanent": true
+    },
+    {
+      "source": "/technical-seo-services",
+      "destination": "/services/technical-seo",
+      "permanent": true
+    },
+    {
+      "source": "/technical-seo-services.html",
+      "destination": "/services/technical-seo",
+      "permanent": true
+    },
+    {
+      "source": "/tour-operator-seo-services",
+      "destination": "/industries/tour-operator-seo",
+      "permanent": true
+    },
+    {
+      "source": "/tour-operator-seo-services.html",
+      "destination": "/industries/tour-operator-seo",
+      "permanent": true
+    },
+    {
+      "source": "/towing-seo-services",
+      "destination": "/industries/towing-seo",
+      "permanent": true
+    },
+    {
+      "source": "/towing-seo-services.html",
+      "destination": "/industries/towing-seo",
+      "permanent": true
+    },
+    {
+      "source": "/travel-seo-services",
+      "destination": "/services/travel-seo",
+      "permanent": true
+    },
+    {
+      "source": "/travel-seo-services.html",
+      "destination": "/services/travel-seo",
+      "permanent": true
+    },
+    {
+      "source": "/tutoring-seo-services",
+      "destination": "/industries/tutoring-seo",
+      "permanent": true
+    },
+    {
+      "source": "/tutoring-seo-services.html",
+      "destination": "/industries/tutoring-seo",
+      "permanent": true
+    },
+    {
+      "source": "/web-design-agency-seo-services",
+      "destination": "/industries/web-design-agency-seo",
+      "permanent": true
+    },
+    {
+      "source": "/web-design-agency-seo-services.html",
+      "destination": "/industries/web-design-agency-seo",
+      "permanent": true
+    },
+    {
+      "source": "/wedding-seo-services",
+      "destination": "/industries/wedding-seo",
+      "permanent": true
+    },
+    {
+      "source": "/wedding-seo-services.html",
+      "destination": "/industries/wedding-seo",
+      "permanent": true
+    },
+    {
+      "source": "/white-label-seo-services",
+      "destination": "/services/white-label-seo",
+      "permanent": true
+    },
+    {
+      "source": "/white-label-seo-services.html",
+      "destination": "/services/white-label-seo",
+      "permanent": true
+    },
+    {
+      "source": "/window-cleaning-seo-services",
+      "destination": "/industries/window-cleaning-seo",
+      "permanent": true
+    },
+    {
+      "source": "/window-cleaning-seo-services.html",
+      "destination": "/industries/window-cleaning-seo",
+      "permanent": true
+    },
+    {
+      "source": "/yoga-seo-services",
+      "destination": "/industries/yoga-seo",
+      "permanent": true
+    },
+    {
+      "source": "/yoga-seo-services.html",
+      "destination": "/industries/yoga-seo",
+      "permanent": true
+    },
+    {
+      "source": "/index",
+      "destination": "/",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400"
+        }
+      ]
+    }
+  ]
+}

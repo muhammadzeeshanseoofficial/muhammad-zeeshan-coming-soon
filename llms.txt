@@ -1,3 +1,64 @@
-# Muhammad Zeeshan
+# Muhammad Zeeshan — SEO Expert & Consultant
 
-This is the official website of Muhammad Zeeshan. The site is coming soon. A new home for work, ideas, and what’s next will be published here shortly.
+> Official website of Muhammad Zeeshan, an SEO expert and consultant offering technical SEO, local SEO, AI SEO, content and link building services for businesses in the US, UK, Canada, Australia, UAE, France and Italy.
+
+## Key pages
+- [SEO Expert and Consultant | US, UK, Canada, Australia, UAE](https://muhammad-zeeshan.com/)
+- [SEO Services | Technical, Local, Content, AI, Industry SEO](https://muhammad-zeeshan.com/services)
+- [Industry SEO | SEO for 50+ Local and Service Industries](https://muhammad-zeeshan.com/industries)
+- [SEO Case Studies | Real Results With Search Console Proof](https://muhammad-zeeshan.com/case-studies)
+- [About Muhammad Zeeshan | SEO and AI SEO Consultant](https://muhammad-zeeshan.com/about)
+- [SEO Cost and Pricing | Monthly Packages, Audits, Projects](https://muhammad-zeeshan.com/pricing)
+- [Free Website Audit | Free SEO Audit and Quick Wins](https://muhammad-zeeshan.com/free-seo-audit)
+- [SEO Consultation | Contact Muhammad Zeeshan](https://muhammad-zeeshan.com/contact)
+- [SEO Questions and Answers | Working With an SEO Consultant](https://muhammad-zeeshan.com/faq)
+- [SEO Blog | Practical Guides on SEO, Local and AI Search](https://muhammad-zeeshan.com/blog)
+
+## Services
+- [AI Search Optimization | AI SEO, AEO and GEO Services](https://muhammad-zeeshan.com/services/ai-seo)
+- [Cleaning Services SEO | More Clients for Cleaning Companies](https://muhammad-zeeshan.com/services/cleaning-seo)
+- [SEO Content Services | Strategy, Briefs and Helpful Content](https://muhammad-zeeshan.com/services/content-seo)
+- [Ecommerce SEO Services | Shopify, Category and Product SEO](https://muhammad-zeeshan.com/services/ecommerce-seo)
+- [Google Business Profile Optimization | Rank in Google Maps](https://muhammad-zeeshan.com/services/google-business-profile)
+- [HVAC SEO Services | More Calls for Heating and Cooling Firms](https://muhammad-zeeshan.com/services/hvac-seo)
+- [International SEO Services | Hreflang and Multilingual SEO](https://muhammad-zeeshan.com/services/international-seo)
+- [Local SEO Services | Map Pack, Citations and Location Pages](https://muhammad-zeeshan.com/services/local-seo)
+- [Link Building Services | Off-Page SEO and Digital PR](https://muhammad-zeeshan.com/services/off-page-seo)
+- [On Page SEO Services | Titles, Content and Internal Links](https://muhammad-zeeshan.com/services/on-page-seo)
+- [Plumbing SEO Services | More Calls for Plumbers](https://muhammad-zeeshan.com/services/plumber-seo)
+- [Real Estate SEO Services | Leads for Agents and Agencies](https://muhammad-zeeshan.com/services/real-estate-seo)
+- [Restaurant SEO Services | Fill More Tables From Google](https://muhammad-zeeshan.com/services/restaurant-seo)
+- [B2B SEO and SaaS SEO Services | Pipeline From Organic Search](https://muhammad-zeeshan.com/services/saas-b2b-seo)
+- [SEO Audit Services | Full Website SEO Audit and Action Plan](https://muhammad-zeeshan.com/services/seo-audit)
+- [Small Business SEO Services | Affordable, Practical SEO](https://muhammad-zeeshan.com/services/small-business-seo)
+- [Taxi SEO Services | More Bookings for Taxi Companies](https://muhammad-zeeshan.com/services/taxi-limo-seo)
+- [Technical SEO Services | Crawling, Indexing and Speed Fixes](https://muhammad-zeeshan.com/services/technical-seo)
+- [Travel SEO Services | More Bookings for Travel Agencies](https://muhammad-zeeshan.com/services/travel-seo)
+- [White Label SEO Services for Agencies | Reseller SEO](https://muhammad-zeeshan.com/services/white-label-seo)
+
+## Markets
+- [SEO Abu Dhabi | SEO Consultant for Abu Dhabi Businesses](https://muhammad-zeeshan.com/seo-consultant-abu-dhabi)
+- [SEO Services Australia | SEO Consultant for Australian Firms](https://muhammad-zeeshan.com/seo-consultant-australia)
+- [SEO Services Canada | SEO Consultant for Canadian Businesses](https://muhammad-zeeshan.com/seo-consultant-canada)
+- [SEO Dubai | SEO Consultant and Company Services in Dubai](https://muhammad-zeeshan.com/seo-consultant-dubai)
+- [SEO Services India | SEO Expert for Indian Companies](https://muhammad-zeeshan.com/seo-consultant-india)
+- [SEO UAE | SEO Consultant for Companies Across the Emirates](https://muhammad-zeeshan.com/seo-consultant-uae)
+- [SEO Services UK | SEO Consultant for British Businesses](https://muhammad-zeeshan.com/seo-consultant-uk)
+- [SEO Services USA | SEO Consultant for American Companies](https://muhammad-zeeshan.com/seo-consultant-usa)
+- [Consultant SEO France | Référencement naturel et SEO IA](https://muhammad-zeeshan.com/consultant-seo-france)
+- [Consulente SEO Italia | Posizionamento su Google e SEO AI](https://muhammad-zeeshan.com/consulente-seo-italia)
+
+## Case studies
+- [FeetFinder SEO Case Study | Sustaining High Traffic at Scale](https://muhammad-zeeshan.com/case-studies/feetfinder)
+- [AI SEO Case Study: SpicyRanked | ~10x Daily Click Growth](https://muhammad-zeeshan.com/case-studies/spicyranked)
+
+## Blog
+- [What Is Technical SEO? A Plain-English Guide and Checklist](https://muhammad-zeeshan.com/blog/what-is-technical-seo)
+
+## Industries
+
+Industry-specific SEO pages for local and service businesses are listed at https://muhammad-zeeshan.com/industries.
+
+## Sitemap
+
+https://muhammad-zeeshan.com/sitemap.xml
