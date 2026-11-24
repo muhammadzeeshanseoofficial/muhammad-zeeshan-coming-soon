@@ -1,5 +1,6 @@
-/* Size-adjusted local fallback to reduce layout shift while Bricolage Grotesque loads (approximate metrics) */
-@font-face{font-family:"Bricolage Grotesque Fallback";src:local("Arial"),local("Helvetica"),local("Liberation Sans");size-adjust:104%;ascent-override:89%;descent-override:26%;line-gap-override:0%}
+/* Metric-matched local fallback so font-display:swap does not shift layout. Metrics from Bricolage typo (ascent 930, descent 270, lineGap 0, UPM 1000) divided by size-adjust; size-adjust from Chrome-measured widths vs Arial/Liberation Sans. */
+@font-face{font-family:"Bricolage Grotesque Fallback";font-style:normal;font-weight:200 550;src:local("Arial"),local("Helvetica"),local("Liberation Sans");size-adjust:104.9%;ascent-override:88.7%;descent-override:25.7%;line-gap-override:0%}
+@font-face{font-family:"Bricolage Grotesque Fallback";font-style:normal;font-weight:551 800;src:local("Arial Bold"),local("Helvetica Bold"),local("Liberation Sans Bold"),local("Arial"),local("Helvetica"),local("Liberation Sans");size-adjust:100.4%;ascent-override:92.6%;descent-override:26.9%;line-gap-override:0%}
 /* Muhammad Zeeshan — SEO Consultant | shared stylesheet */
 :root{
   --blue:#1E5BFF; --blue-700:#1546CC; --blue-50:#EEF3FF; --blue-100:#DCE6FF;
