@@ -689,3 +689,24 @@ h2{letter-spacing:-0.02em;line-height:1.15}
 .foot-grid>div{min-width:0}
 .site-footer .small a,.site-footer p a{font-weight:500;overflow-wrap:anywhere;word-break:break-word;max-width:100%}
 @media(min-width:700px){.site-footer .small a,.site-footer p a{font-weight:600}}
+
+
+/* ---- Portrait (owner headshot) ---- */
+.portrait{max-width:400px;width:100%}
+.portrait img{width:100%;height:auto;aspect-ratio:1/1;object-fit:cover;object-position:center 18%;border-radius:var(--radius-lg);border:1px solid var(--line);box-shadow:var(--shadow);background:var(--soft);display:block}
+@media(max-width:699px){.portrait{max-width:280px;margin:0 auto}}
+.byline picture.avatar,.byline .avatar{display:block;flex-shrink:0;width:44px;height:44px}
+.byline .avatar img,.avatar-img{width:44px;height:44px;border-radius:50%;object-fit:cover;object-position:center 18%;border:2px solid var(--blue-50);background:var(--soft);display:block}
+
+/* ---- critical:wa-float ---- */
+.wa-float{position:fixed;right:max(16px,env(safe-area-inset-right,0px));bottom:max(16px,env(safe-area-inset-bottom,0px));z-index:80;display:flex;align-items:center;gap:10px;text-decoration:none!important;color:inherit;line-height:0}
+.wa-float .wa-label{display:none;background:#fff;color:#111B21;font-size:.85rem;font-weight:600;line-height:1;padding:8px 12px;border-radius:999px;border:1px solid var(--line);box-shadow:var(--shadow);white-space:nowrap}
+.wa-float .wa-fab{width:56px;height:56px;border-radius:50%;background:#25D366;color:#fff;display:grid;place-items:center;box-shadow:0 8px 24px rgba(37,211,102,.45);flex-shrink:0;transition:background .15s,transform .15s}
+.wa-float:hover .wa-fab{background:#1EBE5A;transform:translateY(-1px)}
+.wa-float:focus-visible{outline:none}
+.wa-float:focus-visible .wa-fab{outline:3px solid #128C7E;outline-offset:3px}
+@media(min-width:700px){.wa-float .wa-label{display:block}}
+@media(max-width:699px){
+  .site-footer .foot-bottom{padding-bottom:max(96px,calc(28px + env(safe-area-inset-bottom,0px)));padding-right:76px}
+  .form-btns{margin-bottom:80px}
+}
