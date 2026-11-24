@@ -576,3 +576,19 @@ h2{letter-spacing:-0.02em;line-height:1.15}
 /* overview section: single column, no stat tiles */
 .rd .rd-what-single{max-width:720px;margin:0 auto}
 .rd .rd-what-single p:last-child{margin-bottom:0}
+/* contact + LinkedIn CTA buttons */
+.contact-btns{display:flex;flex-wrap:wrap;gap:10px;margin:4px 0 18px}
+.btn-mail,.btn-wa,.btn-li{min-height:44px;gap:8px}
+.btn-mail{background:#fff;color:#271531;border:1px solid #D6DCE5}
+.btn-mail:hover{border-color:#22C3D9;color:#0E8796;text-decoration:none}
+.btn-wa{background:#0B7A4B;color:#fff;border:1px solid #0B7A4B}
+.btn-wa:hover{background:#09643D;color:#fff;text-decoration:none}
+.btn-li{background:#fff;color:#0A66C2;border:1px solid #0A66C2}
+.btn-li:hover{background:#0A66C2;color:#fff;text-decoration:none}
+.btn-li svg,.btn-mail svg,.btn-wa svg{flex:none}
+.li-row{margin-top:18px}
+.cta-band .btn-li,.site-cta .btn-li{background:transparent;color:#fff;border-color:rgba(255,255,255,.35)}
+.faq-a .contact-btns,.cs-card .contact-btns{margin-bottom:6px}
+.rd-what-single .contact-btns,.center .contact-btns{justify-content:flex-start}
+@media (max-width:480px){.contact-btns .btn,.btn-row .btn-li,.post-cta .btn{flex:1 1 100%;justify-content:center}}
+@media (max-width:480px){.btn-row .btn,.rd-btns .btn{flex:1 1 100%;justify-content:center}}
