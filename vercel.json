@@ -63,6 +63,436 @@
       "permanent": true
     },
     {
+      "source": "/blog-a-practical-geo-seo-starter-plan",
+      "destination": "/blog/a-practical-geo-seo-starter-plan",
+      "permanent": true
+    },
+    {
+      "source": "/blog-a-practical-geo-seo-starter-plan.html",
+      "destination": "/blog/a-practical-geo-seo-starter-plan",
+      "permanent": true
+    },
+    {
+      "source": "/blog-ai-seo-vs-traditional-seo",
+      "destination": "/blog/ai-seo-vs-traditional-seo",
+      "permanent": true
+    },
+    {
+      "source": "/blog-ai-seo-vs-traditional-seo.html",
+      "destination": "/blog/ai-seo-vs-traditional-seo",
+      "permanent": true
+    },
+    {
+      "source": "/blog-broken-link-building-step-by-step",
+      "destination": "/blog/broken-link-building-step-by-step",
+      "permanent": true
+    },
+    {
+      "source": "/blog-broken-link-building-step-by-step.html",
+      "destination": "/blog/broken-link-building-step-by-step",
+      "permanent": true
+    },
+    {
+      "source": "/blog-category-and-collection-page-seo",
+      "destination": "/blog/category-and-collection-page-seo",
+      "permanent": true
+    },
+    {
+      "source": "/blog-category-and-collection-page-seo.html",
+      "destination": "/blog/category-and-collection-page-seo",
+      "permanent": true
+    },
+    {
+      "source": "/blog-citations-and-nap-consistency",
+      "destination": "/blog/citations-and-nap-consistency",
+      "permanent": true
+    },
+    {
+      "source": "/blog-citations-and-nap-consistency.html",
+      "destination": "/blog/citations-and-nap-consistency",
+      "permanent": true
+    },
+    {
+      "source": "/blog-core-web-vitals-for-service-and-ecommerce-sites",
+      "destination": "/blog/core-web-vitals-for-service-and-ecommerce-sites",
+      "permanent": true
+    },
+    {
+      "source": "/blog-core-web-vitals-for-service-and-ecommerce-sites.html",
+      "destination": "/blog/core-web-vitals-for-service-and-ecommerce-sites",
+      "permanent": true
+    },
+    {
+      "source": "/blog-crawl-budget-and-indexation-issues",
+      "destination": "/blog/crawl-budget-and-indexation-issues",
+      "permanent": true
+    },
+    {
+      "source": "/blog-crawl-budget-and-indexation-issues.html",
+      "destination": "/blog/crawl-budget-and-indexation-issues",
+      "permanent": true
+    },
+    {
+      "source": "/blog-digital-pr-for-seo",
+      "destination": "/blog/digital-pr-for-seo",
+      "permanent": true
+    },
+    {
+      "source": "/blog-digital-pr-for-seo.html",
+      "destination": "/blog/digital-pr-for-seo",
+      "permanent": true
+    },
+    {
+      "source": "/blog-ecommerce-seo-checklist",
+      "destination": "/blog/ecommerce-seo-checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog-ecommerce-seo-checklist.html",
+      "destination": "/blog/ecommerce-seo-checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog-entity-seo-and-becoming-a-cited-source",
+      "destination": "/blog/entity-seo-and-becoming-a-cited-source",
+      "permanent": true
+    },
+    {
+      "source": "/blog-entity-seo-and-becoming-a-cited-source.html",
+      "destination": "/blog/entity-seo-and-becoming-a-cited-source",
+      "permanent": true
+    },
+    {
+      "source": "/blog-faceted-navigation-without-index-bloat",
+      "destination": "/blog/faceted-navigation-without-index-bloat",
+      "permanent": true
+    },
+    {
+      "source": "/blog-faceted-navigation-without-index-bloat.html",
+      "destination": "/blog/faceted-navigation-without-index-bloat",
+      "permanent": true
+    },
+    {
+      "source": "/blog-freelance-seo-consultant-vs-agency",
+      "destination": "/blog/freelance-seo-consultant-vs-agency",
+      "permanent": true
+    },
+    {
+      "source": "/blog-freelance-seo-consultant-vs-agency.html",
+      "destination": "/blog/freelance-seo-consultant-vs-agency",
+      "permanent": true
+    },
+    {
+      "source": "/blog-google-business-profile-seo",
+      "destination": "/blog/google-business-profile-seo",
+      "permanent": true
+    },
+    {
+      "source": "/blog-google-business-profile-seo.html",
+      "destination": "/blog/google-business-profile-seo",
+      "permanent": true
+    },
+    {
+      "source": "/blog-header-tags-and-page-structure",
+      "destination": "/blog/header-tags-and-page-structure",
+      "permanent": true
+    },
+    {
+      "source": "/blog-header-tags-and-page-structure.html",
+      "destination": "/blog/header-tags-and-page-structure",
+      "permanent": true
+    },
+    {
+      "source": "/blog-how-to-brief-writers-for-search-led-pages",
+      "destination": "/blog/how-to-brief-writers-for-search-led-pages",
+      "permanent": true
+    },
+    {
+      "source": "/blog-how-to-brief-writers-for-search-led-pages.html",
+      "destination": "/blog/how-to-brief-writers-for-search-led-pages",
+      "permanent": true
+    },
+    {
+      "source": "/blog-how-to-build-backlinks",
+      "destination": "/blog/how-to-build-backlinks",
+      "permanent": true
+    },
+    {
+      "source": "/blog-how-to-build-backlinks.html",
+      "destination": "/blog/how-to-build-backlinks",
+      "permanent": true
+    },
+    {
+      "source": "/blog-how-to-choose-an-seo-company-in-dubai",
+      "destination": "/blog/how-to-choose-an-seo-company-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/blog-how-to-choose-an-seo-company-in-dubai.html",
+      "destination": "/blog/how-to-choose-an-seo-company-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/blog-how-to-get-cited-in-ai-overviews",
+      "destination": "/blog/how-to-get-cited-in-ai-overviews",
+      "permanent": true
+    },
+    {
+      "source": "/blog-how-to-get-cited-in-ai-overviews.html",
+      "destination": "/blog/how-to-get-cited-in-ai-overviews",
+      "permanent": true
+    },
+    {
+      "source": "/blog-how-to-hire-an-seo-consultant",
+      "destination": "/blog/how-to-hire-an-seo-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/blog-how-to-hire-an-seo-consultant.html",
+      "destination": "/blog/how-to-hire-an-seo-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/blog-how-to-refresh-old-content-without-losing-rankings",
+      "destination": "/blog/how-to-refresh-old-content-without-losing-rankings",
+      "permanent": true
+    },
+    {
+      "source": "/blog-how-to-refresh-old-content-without-losing-rankings.html",
+      "destination": "/blog/how-to-refresh-old-content-without-losing-rankings",
+      "permanent": true
+    },
+    {
+      "source": "/blog-how-to-write-seo-content-that-ranks",
+      "destination": "/blog/how-to-write-seo-content-that-ranks",
+      "permanent": true
+    },
+    {
+      "source": "/blog-how-to-write-seo-content-that-ranks.html",
+      "destination": "/blog/how-to-write-seo-content-that-ranks",
+      "permanent": true
+    },
+    {
+      "source": "/blog-how-to-write-title-tags-and-meta-descriptions",
+      "destination": "/blog/how-to-write-title-tags-and-meta-descriptions",
+      "permanent": true
+    },
+    {
+      "source": "/blog-how-to-write-title-tags-and-meta-descriptions.html",
+      "destination": "/blog/how-to-write-title-tags-and-meta-descriptions",
+      "permanent": true
+    },
+    {
+      "source": "/blog-hvac-seo-for-local-service-companies",
+      "destination": "/blog/hvac-seo-for-local-service-companies",
+      "permanent": true
+    },
+    {
+      "source": "/blog-hvac-seo-for-local-service-companies.html",
+      "destination": "/blog/hvac-seo-for-local-service-companies",
+      "permanent": true
+    },
+    {
+      "source": "/blog-internal-linking-strategy-for-service-sites",
+      "destination": "/blog/internal-linking-strategy-for-service-sites",
+      "permanent": true
+    },
+    {
+      "source": "/blog-internal-linking-strategy-for-service-sites.html",
+      "destination": "/blog/internal-linking-strategy-for-service-sites",
+      "permanent": true
+    },
+    {
+      "source": "/blog-international-seo-for-multi-market-sites",
+      "destination": "/blog/international-seo-for-multi-market-sites",
+      "permanent": true
+    },
+    {
+      "source": "/blog-international-seo-for-multi-market-sites.html",
+      "destination": "/blog/international-seo-for-multi-market-sites",
+      "permanent": true
+    },
+    {
+      "source": "/blog-javascript-seo-for-modern-websites",
+      "destination": "/blog/javascript-seo-for-modern-websites",
+      "permanent": true
+    },
+    {
+      "source": "/blog-javascript-seo-for-modern-websites.html",
+      "destination": "/blog/javascript-seo-for-modern-websites",
+      "permanent": true
+    },
+    {
+      "source": "/blog-local-seo-checklist",
+      "destination": "/blog/local-seo-checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog-local-seo-checklist.html",
+      "destination": "/blog/local-seo-checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog-local-seo-for-multi-location-brands",
+      "destination": "/blog/local-seo-for-multi-location-brands",
+      "permanent": true
+    },
+    {
+      "source": "/blog-local-seo-for-multi-location-brands.html",
+      "destination": "/blog/local-seo-for-multi-location-brands",
+      "permanent": true
+    },
+    {
+      "source": "/blog-local-seo-in-dubai",
+      "destination": "/blog/local-seo-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/blog-local-seo-in-dubai.html",
+      "destination": "/blog/local-seo-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/blog-on-page-seo-checklist",
+      "destination": "/blog/on-page-seo-checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog-on-page-seo-checklist.html",
+      "destination": "/blog/on-page-seo-checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog-outreach-that-earns-relevant-mentions",
+      "destination": "/blog/outreach-that-earns-relevant-mentions",
+      "permanent": true
+    },
+    {
+      "source": "/blog-outreach-that-earns-relevant-mentions.html",
+      "destination": "/blog/outreach-that-earns-relevant-mentions",
+      "permanent": true
+    },
+    {
+      "source": "/blog-product-page-seo-that-converts-and-ranks",
+      "destination": "/blog/product-page-seo-that-converts-and-ranks",
+      "permanent": true
+    },
+    {
+      "source": "/blog-product-page-seo-that-converts-and-ranks.html",
+      "destination": "/blog/product-page-seo-that-converts-and-ranks",
+      "permanent": true
+    },
+    {
+      "source": "/blog-real-estate-seo-for-agencies-and-teams",
+      "destination": "/blog/real-estate-seo-for-agencies-and-teams",
+      "permanent": true
+    },
+    {
+      "source": "/blog-real-estate-seo-for-agencies-and-teams.html",
+      "destination": "/blog/real-estate-seo-for-agencies-and-teams",
+      "permanent": true
+    },
+    {
+      "source": "/blog-restaurant-seo-checklist",
+      "destination": "/blog/restaurant-seo-checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog-restaurant-seo-checklist.html",
+      "destination": "/blog/restaurant-seo-checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog-seo-for-abu-dhabi-businesses",
+      "destination": "/blog/seo-for-abu-dhabi-businesses",
+      "permanent": true
+    },
+    {
+      "source": "/blog-seo-for-abu-dhabi-businesses.html",
+      "destination": "/blog/seo-for-abu-dhabi-businesses",
+      "permanent": true
+    },
+    {
+      "source": "/blog-seo-for-plumbers",
+      "destination": "/blog/seo-for-plumbers",
+      "permanent": true
+    },
+    {
+      "source": "/blog-seo-for-plumbers.html",
+      "destination": "/blog/seo-for-plumbers",
+      "permanent": true
+    },
+    {
+      "source": "/blog-seo-for-small-businesses",
+      "destination": "/blog/seo-for-small-businesses",
+      "permanent": true
+    },
+    {
+      "source": "/blog-seo-for-small-businesses.html",
+      "destination": "/blog/seo-for-small-businesses",
+      "permanent": true
+    },
+    {
+      "source": "/blog-seo-pricing-and-monthly-packages-explained",
+      "destination": "/blog/seo-pricing-and-monthly-packages-explained",
+      "permanent": true
+    },
+    {
+      "source": "/blog-seo-pricing-and-monthly-packages-explained.html",
+      "destination": "/blog/seo-pricing-and-monthly-packages-explained",
+      "permanent": true
+    },
+    {
+      "source": "/blog-shopify-seo-services-explained",
+      "destination": "/blog/shopify-seo-services-explained",
+      "permanent": true
+    },
+    {
+      "source": "/blog-shopify-seo-services-explained.html",
+      "destination": "/blog/shopify-seo-services-explained",
+      "permanent": true
+    },
+    {
+      "source": "/blog-technical-seo-audit-checklist",
+      "destination": "/blog/technical-seo-audit-checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog-technical-seo-audit-checklist.html",
+      "destination": "/blog/technical-seo-audit-checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog-topic-clusters-and-pillar-pages",
+      "destination": "/blog/topic-clusters-and-pillar-pages",
+      "permanent": true
+    },
+    {
+      "source": "/blog-topic-clusters-and-pillar-pages.html",
+      "destination": "/blog/topic-clusters-and-pillar-pages",
+      "permanent": true
+    },
+    {
+      "source": "/blog-what-is-answer-engine-optimization",
+      "destination": "/blog/what-is-answer-engine-optimization",
+      "permanent": true
+    },
+    {
+      "source": "/blog-what-is-answer-engine-optimization.html",
+      "destination": "/blog/what-is-answer-engine-optimization",
+      "permanent": true
+    },
+    {
+      "source": "/blog-what-is-generative-engine-optimization",
+      "destination": "/blog/what-is-generative-engine-optimization",
+      "permanent": true
+    },
+    {
+      "source": "/blog-what-is-generative-engine-optimization.html",
+      "destination": "/blog/what-is-generative-engine-optimization",
+      "permanent": true
+    },
+    {
       "source": "/blog-what-is-technical-seo",
       "destination": "/blog/what-is-technical-seo",
       "permanent": true
@@ -70,6 +500,26 @@
     {
       "source": "/blog-what-is-technical-seo.html",
       "destination": "/blog/what-is-technical-seo",
+      "permanent": true
+    },
+    {
+      "source": "/blog-what-to-expect-from-an-seo-audit",
+      "destination": "/blog/what-to-expect-from-an-seo-audit",
+      "permanent": true
+    },
+    {
+      "source": "/blog-what-to-expect-from-an-seo-audit.html",
+      "destination": "/blog/what-to-expect-from-an-seo-audit",
+      "permanent": true
+    },
+    {
+      "source": "/blog-xml-sitemaps-and-robots-txt",
+      "destination": "/blog/xml-sitemaps-and-robots-txt",
+      "permanent": true
+    },
+    {
+      "source": "/blog-xml-sitemaps-and-robots-txt.html",
+      "destination": "/blog/xml-sitemaps-and-robots-txt",
       "permanent": true
     },
     {
@@ -780,11 +1230,29 @@
   ],
   "headers": [
     {
+      "source": "/assets/fonts/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/assets/img/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
       "source": "/assets/(.*)",
       "headers": [
         {
           "key": "Cache-Control",
-          "value": "public, max-age=86400"
+          "value": "public, max-age=604800"
         }
       ]
     }
