@@ -433,16 +433,6 @@
       "permanent": true
     },
     {
-      "source": "/blog-seo-pricing-and-monthly-packages-explained",
-      "destination": "/blog/seo-pricing-and-monthly-packages-explained",
-      "permanent": true
-    },
-    {
-      "source": "/blog-seo-pricing-and-monthly-packages-explained.html",
-      "destination": "/blog/seo-pricing-and-monthly-packages-explained",
-      "permanent": true
-    },
-    {
       "source": "/blog-shopify-seo-services-explained",
       "destination": "/blog/shopify-seo-services-explained",
       "permanent": true
