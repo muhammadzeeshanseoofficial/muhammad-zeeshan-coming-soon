@@ -786,3 +786,7 @@ h2{letter-spacing:-0.02em;line-height:1.15}
   .site-cta .cta-card{padding:36px 20px;border-radius:22px}
   .site-cta .sc-btns .btn{flex:1 1 100%;justify-content:center;min-height:44px}
 }
+
+/* ---- critical:h1-name ---- */
+.hero h1 .h1-name,h1 .h1-name{display:block;color:#271531;font-size:clamp(1.05rem,2.2vw,1.3rem);font-weight:700;letter-spacing:-0.02em;line-height:1.25;margin:0 0 .28em}
+@media(max-width:699px){.hero h1 .h1-name,h1 .h1-name{font-size:1.05rem;margin-bottom:.22em}}
