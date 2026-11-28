@@ -293,6 +293,16 @@
       "permanent": true
     },
     {
+      "source": "/blog-in-house-seo-vs-consultant",
+      "destination": "/blog/in-house-seo-vs-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/blog-in-house-seo-vs-consultant.html",
+      "destination": "/blog/in-house-seo-vs-consultant",
+      "permanent": true
+    },
+    {
       "source": "/blog-internal-linking-strategy-for-service-sites",
       "destination": "/blog/internal-linking-strategy-for-service-sites",
       "permanent": true
@@ -410,6 +420,16 @@
     {
       "source": "/blog-seo-for-abu-dhabi-businesses.html",
       "destination": "/blog/seo-for-abu-dhabi-businesses",
+      "permanent": true
+    },
+    {
+      "source": "/blog-seo-for-builders-merchants",
+      "destination": "/blog/seo-for-builders-merchants",
+      "permanent": true
+    },
+    {
+      "source": "/blog-seo-for-builders-merchants.html",
+      "destination": "/blog/seo-for-builders-merchants",
       "permanent": true
     },
     {
